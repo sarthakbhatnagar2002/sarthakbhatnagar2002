@@ -39,7 +39,6 @@
 <p align="left">
 <img src="https://python.langchain.com/img/brand/wordmark.png" alt="langchain" width="80" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python-ai" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 
 **Tools & Platforms:**
@@ -56,8 +55,6 @@
 ## 📈 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakbhatnagar2002&layout=compact&theme=radical)
-
-## 📊 GitHub Stats
 
 ## 🤝 Get in Touch
 
