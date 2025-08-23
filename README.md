@@ -1,4 +1,4 @@
-# Hi there, I'm Sarthak Bhatnagar! 👋
+# Hi, I'm Sarthak! 
 
 ## 🚀 About Me
 **Software Engineer | Full-Stack Developer**
@@ -48,18 +48,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthakbhatnagar2002&show_icons=true&theme=radical)
 
-## 📈 Most Used Languages
+## 📈 Most Used Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakbhatnagar2002&layout=compact&theme=radical)
 
-## 🤝 Get in Touch
+## Socials:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-bhatnagar-05b177247/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sarthakbhatnagar2002)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sarthakbhatnagar103@gmail.com)
 
 ---
