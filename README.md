@@ -59,12 +59,6 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthakbhatnagar2002&show_icons=true&theme=radical)
-
-## 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakbhatnagar2002&layout=compact&theme=radical)
-
 ## 🤝 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-bhatnagar-05b177247/)
